@@ -68,8 +68,8 @@ public class Main {
 		Complex ca = new Complex(-2, -1);
 		Complex ce = new Complex(0.5, 1);
 		int iterationen = 80;
-		int breite = 1000;
-		int hoehe = 800;
+		int breite = 800;
+		int hoehe = 650;
 
 		// Ausdruck dieser Daten
 		System.out.println("Erzeuge Grafik.");
